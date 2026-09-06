@@ -4,12 +4,12 @@ Allow Instagram users to organize their direct messages into different categorie
 to make conversations easier to manage and find.
 ----------------------------------------------------------------------------------------------------------------------
 
-User Story 1: Create a Category
+- User Story 1: Create a Category
 
 As an Instagram user, I want to create a new message category so that I can organize my
 conversations based on my needs.
 
-### Acceptance Criteria
+- Acceptance Criteria:
 
 1- Given that I am viewing my direct messages, whenI select "Create Category", then I should be able to enter a
 category name.
@@ -21,11 +21,11 @@ category name.
 
 ----------------------------------------------------------------------------------------------------------------------
 
-User Story 2: Add a Conversation to a Category
+- User Story 2: Add a Conversation to a Category
 
 As an Instagram user, I want to add a conversation to a category so that I can keep my messages organized.
 
-### Acceptance Criteria
+- Acceptance Criteria:
 
 1- Given that I have an existing conversation, when I select "Add to Category", then I should be able to choose an
  existing category.
@@ -37,12 +37,12 @@ As an Instagram user, I want to add a conversation to a category so that I can k
 
 ----------------------------------------------------------------------------------------------------------------------
 
-User Story 3: Move a Conversation to Another Category
+- User Story 3: Move a Conversation to Another Category
 
 As an Instagram user, I want to move a conversation from one category to another so that I can keep my categories up
  to date.
 
-### Acceptance Criteria
+- Acceptance Criteria:
 
 1- Given that a conversation is already assigned to a category, when I select "Move to Category", then I should be
 able to choose another category.
@@ -51,11 +51,11 @@ able to choose another category.
 
 ----------------------------------------------------------------------------------------------------------------------
 
-User Story 4: Rename a Category
+- User Story 4: Rename a Category
 
 As an Instagram user, I want to rename a category so that I can keep the category name relevant to my conversations.
 
-### Acceptance Criteria
+- Acceptance Criteria: 
 
 1- Given that I have an existing category, when I select "Rename Category", then I should be able to enter a new name.
 2- Given that I have entered a new name, when I confirm the change, then the category should display the new name.
@@ -64,11 +64,11 @@ As an Instagram user, I want to rename a category so that I can keep the categor
 
 ----------------------------------------------------------------------------------------------------------------------
 
-## User Story 5: Delete a Category
+- User Story 5: Delete a Category
 
 As an Instagram user, I want to delete a category so that I can remove categories that I no longer need.
 
-### Acceptance Criteria
+Acceptance Criteria:
 
 1- Given that I have an existing category, when I select "Delete Category", then I should be asked to confirm
 the deletion.
