@@ -1,10 +1,7 @@
                                            Instagram DM Categories
 ----------------------------------------------------------------------------------------------------------------------
-Feature:
-
 Allow Instagram users to organize their direct messages into different categories, such as Friends, Family, and Work,
 to make conversations easier to manage and find.
-
 ----------------------------------------------------------------------------------------------------------------------
 
 User Story 1: Create a Category
